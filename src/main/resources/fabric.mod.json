@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "the-backrooms",
+	"version": "${version}",
+	"name": "The Backrooms",
+	"description": "The Backrooms... But Minecraft?",
+	"authors": [
+		"Prismaxtic"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/the-backrooms/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.prismaxtic.thebackrooms.TheBackrooms"
+		],
+		"client": [
+			"net.prismaxtic.thebackrooms.TheBackroomsClient"
+		],
+		"fabric-datagen": [
+			"net.prismaxtic.thebackrooms.TheBackroomsDataGenerator"
+		]
+	},
+	"mixins": [
+		"the-backrooms.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=8",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

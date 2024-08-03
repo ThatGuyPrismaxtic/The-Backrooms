@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "the-backrooms:block/backrooms_level_0_wall"
+  }
+}

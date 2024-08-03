@@ -1,0 +1,19 @@
+{
+  "undertales": {
+    "sounds": [
+      {
+        "name": "thebackrooms:undertales",
+        "stream": true
+      }
+    ]
+  },
+
+  "burningmemory": {
+    "sounds": [
+      {
+        "name": "thebackrooms:burningmemory",
+        "stream": true
+      }
+    ]
+  }
+}

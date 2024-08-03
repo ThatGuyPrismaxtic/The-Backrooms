@@ -1,0 +1,28 @@
+{
+  "item.the-backrooms.almond": "Almond",
+
+  "item.the-backrooms.almondwater": "Almond Water",
+  "item.the-backrooms.almondwater.desc": "Only source of any nutrition whatsoever as far as the eye can see",
+
+  "item.the-backrooms.undertales": "Cassette 1",
+  "item.the-backrooms.undertales.desc": "Toby Fox - Fallen Down (Undertale), Adapted by Max Woodward",
+
+  "item.the-backrooms.burningmemory": "Cassette 2",
+  "item.the-backrooms.burningmemory.desc": "The Caretaker - Its Just A Burning Memory",
+
+  "block.the-backrooms.backrooms_level_0_wall": "Level 0 Wall",
+
+  "block.the-backrooms.backrooms_level_0_wall_bottom": "Level 0 Wall (bottom)",
+
+  "block.the-backrooms.backrooms_level_0_ceiling": "Level 0 Ceiling",
+
+  "block.the-backrooms.backrooms_level_0_light": "Level 0 Light",
+
+  "block.the-backrooms.backrooms_level_0_carpet": "Level 0 Carpet",
+
+  "block.the-backrooms.backrooms_almondwater_block": "Almond Water (Block)",
+
+  "block.the-backrooms.backrooms_void": "Backrooms Void",
+
+  "itemgroup.backrooms": "The Backrooms"
+}
